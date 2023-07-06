@@ -10,4 +10,4 @@ Install the required packages `pip install -r requirements.txt` and start the se
 
 # Tutorial
 
-[Tutorial 4](https://docs.djangoproject.com/en/4.2/intro/tutorial04/)
+[Tutorial 5](https://docs.djangoproject.com/en/4.2/intro/tutorial05/)
