@@ -10,4 +10,6 @@ Install the required packages `pip install -r requirements.txt` and start the se
 
 # Tutorial
 
-[Tutorial 6](https://docs.djangoproject.com/en/4.2/intro/tutorial06/)
+[Tutorial 7](https://docs.djangoproject.com/en/4.2/intro/tutorial07/)
+
+- [ModelAdmin.list_display](https://docs.djangoproject.com/en/4.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display)
