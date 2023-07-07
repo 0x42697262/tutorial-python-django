@@ -6,12 +6,3 @@ Each tutorials from the [Django Documentation](https://docs.djangoproject.com/en
 # Usage
 
 Install the required packages `pip install -r requirements.txt` and start the server `python managed.py runserver`.
-
-<<<<<<< HEAD
-=======
-
-# Tutorial
-
-[Tutorial 8](https://docs.djangoproject.com/en/4.2/intro/tutorial08/)
-
->>>>>>> origin/tutorial8
